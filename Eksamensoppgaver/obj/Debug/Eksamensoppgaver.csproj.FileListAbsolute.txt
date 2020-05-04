@@ -1,0 +1,10 @@
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\bin\Debug\Eksamensoppgaver.exe.config
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\bin\Debug\Eksamensoppgaver.exe
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\bin\Debug\Eksamensoppgaver.pdb
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\obj\Debug\Eksamensoppgaver.csprojAssemblyReference.cache
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\obj\Debug\Eksamensoppgaver.Form1.resources
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\obj\Debug\Eksamensoppgaver.Properties.Resources.resources
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\obj\Debug\Eksamensoppgaver.csproj.GenerateResource.cache
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\obj\Debug\Eksamensoppgaver.csproj.CoreCompileInputs.cache
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\obj\Debug\Eksamensoppgaver.exe
+C:\Users\MC\source\repos\Eksamensoppgaver\Eksamensoppgaver\obj\Debug\Eksamensoppgaver.pdb
